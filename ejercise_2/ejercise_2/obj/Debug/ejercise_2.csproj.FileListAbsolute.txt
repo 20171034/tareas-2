@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\bin\Debug\ejercise_2.exe.config
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\bin\Debug\ejercise_2.exe
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\bin\Debug\ejercise_2.pdb
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.Form1.resources
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.exe
+C:\Users\Usuario\Desktop\UNAH\Nueva carpeta\lenguaje 3\tareas-2\ejercise_2\ejercise_2\obj\Debug\ejercise_2.pdb
